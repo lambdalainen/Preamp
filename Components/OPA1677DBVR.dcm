@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1677DBVR
+D Audio Amplifiers
+K
+F https://www.ti.com/lit/ds/symlink/opa1678.pdf?ts=1646273046156
+$ENDCMP
+#
+#End Doc Library
